@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hey there, I'm Grace! </h1>
-  <!-- <img src="asset/images/girl_using_laptop.png" /> -->
+  <img src="asset/images/girl_using_laptop.png" />
 </div>
 
 - 🚀 A software developer based in Malaysia. 
@@ -8,18 +8,6 @@
 - 🌍 Let's connect together on [LinkedIn](https://www.linkedin.com/in/grace-heng-hui-san/).
 - 📰 View my latest blog posts on [Medium](https://medium.com/@gracehenghuisan).
 - 💡 Open for collaboration. Drop me an email - gracehenghuisan@gmail.com, and let's create something amazing together!
- 
-
- <!--I'm not just someone who writes code—I'm an adventurer in the world of technology, a fan of crafting code and solving problems. I love creating both the parts of websites you see and the parts you don't, all to make your experience smooth and enjoyable.
-
-🌍 Based in Malaysia, I'm on a mission to create, innovate, and elevate. Whether it's writing elegant code or sipping on a cup of coffee, you can count me in!
-
-📞 Feel free to reach out:
-- Email: gracehenghuisan@gmail.com
-- LinkedIn: [Grace Heng Hui San](https://www.linkedin.com/in/grace-heng-hui-san/)
-- GitHub: [@henghuisan](https://github.com/henghuisan)
-- Medium: [@gracehenghuisan](https://medium.com/@gracehenghuisan)
-  - Portfolio: [My Portfolio](https://yourportfolio.com) -->
 
 ## Tech Stack
 
