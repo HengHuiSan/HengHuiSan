@@ -1,11 +1,14 @@
-# Hey there, I'm Grace! 👋
+<div align="center">
+  <h1>👋 Hey there, I'm Grace! </h1>
+  <!-- <img src="asset/images/girl_using_laptop.png" /> -->
+</div>
 
-
-<img src="https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif" alt="" autoplay loop />
-
-## About Me
-
-🚀 Hey there, I'm Grace! 
+- 🚀 A software developer based in Malaysia. 
+- 💻 Visit my [Portfolio]().
+- 🌍 Let's connect together on [LinkedIn](https://www.linkedin.com/in/grace-heng-hui-san/).
+- 📰 View my latest blog posts on [Medium](https://medium.com/@gracehenghuisan).
+- 💡 Open for collaboration. Drop me an email - gracehenghuisan@gmail.com, and let's create something amazing together!
+ 
 
  <!--I'm not just someone who writes code—I'm an adventurer in the world of technology, a fan of crafting code and solving problems. I love creating both the parts of websites you see and the parts you don't, all to make your experience smooth and enjoyable.
 
@@ -35,17 +38,15 @@
 | **Gaming** | ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)|
 | **Design** | ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)|
 
-## Projects
 
-<!--
+## Blog Posts
+📰 Feel free to take a look on my latest blog posts on [Medium](https://medium.com/@gracehenghuisan).
 
-💡 I've been busy crafting digital wonders:
+- [A Simple Way To Use vue3-google-login](https://medium.com/@gracehenghuisan/a-simple-way-to-use-vue3-google-login-12928b99d73e)
+- [How to run a cronjob for web monitoring script on Ubuntu](https://medium.com/@gracehenghuisan/how-to-run-a-cronjob-for-web-monitoring-script-on-ubuntu-70cf35e31c8e)
+- [PyWhatKit: Way to Send Bulk WhatsApp Messages Automatically using Python and MySQL](https://medium.com/@gracehenghuisan/pywhatkit-way-to-send-bulk-whatsapp-messages-automatically-using-python-and-mysql-8bbcb559fa4f)
 
-- [Project 1](https://github.com/yourusername/project1): Briefly describe your first project.
-- [Project 2](https://github.com/yourusername/project2): Share a teaser of your second project.
 
--->
 
-## Let's Connect
 
-🌟 I'm all ears for collaboration. Drop me a line, and let's create something amazing together!
+
