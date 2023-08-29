@@ -28,7 +28,7 @@
 
 
 ## Blog Posts
-📰 Feel free to take a look on my latest blog posts on [Medium](https://medium.com/@gracehenghuisan).
+📰 Feel free to take a look on my blog posts on [Medium](https://medium.com/@gracehenghuisan).
 
 - [A Simple Way To Use vue3-google-login](https://medium.com/@gracehenghuisan/a-simple-way-to-use-vue3-google-login-12928b99d73e)
 - [How to run a cronjob for web monitoring script on Ubuntu](https://medium.com/@gracehenghuisan/how-to-run-a-cronjob-for-web-monitoring-script-on-ubuntu-70cf35e31c8e)
