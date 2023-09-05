@@ -4,7 +4,7 @@
 </div>
 
 - 🚀 A software developer based in Malaysia. 
-- 💻 Visit my [Portfolio]().
+- 💻 Visit my [Portfolio](https://gracehsan.vercel.app/).
 - 🌍 Let's connect together on [LinkedIn](https://www.linkedin.com/in/grace-heng-hui-san/).
 - 📰 View my latest blog posts on [Medium](https://medium.com/@gracehenghuisan).
 - 💡 Open for collaboration. Drop me an email - gracehenghuisan@gmail.com, and let's create something amazing together!
