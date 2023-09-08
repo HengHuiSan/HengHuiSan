@@ -6,7 +6,7 @@
 - 🚀 A software developer based in Malaysia. 
 - 💻 Visit my [Portfolio](https://gracehsan.vercel.app/).
 - 🌍 Let's connect together on [LinkedIn](https://www.linkedin.com/in/grace-heng-hui-san/).
-- 📰 View my latest blog posts on [Medium](https://medium.com/@gracehenghuisan).
+- 📰 View my blog posts on [Medium](https://medium.com/@gracehenghuisan).
 - 💡 Open for collaboration. Drop me an email - gracehenghuisan@gmail.com, and let's create something amazing together!
 
 ## Tech Stack
@@ -26,13 +26,6 @@
 | **Gaming** | ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)|
 | **Design** | ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)|
 
-
-## Blog Posts
-📰 Feel free to take a look on my blog posts on [Medium](https://medium.com/@gracehenghuisan).
-
-- [A Simple Way To Use vue3-google-login](https://medium.com/@gracehenghuisan/a-simple-way-to-use-vue3-google-login-12928b99d73e)
-- [How to run a cronjob for web monitoring script on Ubuntu](https://medium.com/@gracehenghuisan/how-to-run-a-cronjob-for-web-monitoring-script-on-ubuntu-70cf35e31c8e)
-- [PyWhatKit: Way to Send Bulk WhatsApp Messages Automatically using Python and MySQL](https://medium.com/@gracehenghuisan/pywhatkit-way-to-send-bulk-whatsapp-messages-automatically-using-python-and-mysql-8bbcb559fa4f)
 
 
 
